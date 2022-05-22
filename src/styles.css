@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input-text {
+  margin: 5px;
+}
+
+.user-list {
+  list-style: none;
+}
+
+.user-detail {
+  margin-bottom: 10px;
+}
+
+.user-detail span {
+  margin-left: 5px;
+}
+
+.user-detail button {
+  margin-left: 5px;
+}
+
+.footer button {
+  margin-left: 10px;
+}
